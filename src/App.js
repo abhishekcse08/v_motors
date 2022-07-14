@@ -6,7 +6,7 @@ import ExpenseItem from './components/ExpenseItem';
 function App() {
   return (
     <div className="App">
-     <p>Vasundhara Motors</p>
+     <p>Vasundhara Motors Sultanpur</p>
      <ExpenseItem></ExpenseItem>
     </div>
   );
