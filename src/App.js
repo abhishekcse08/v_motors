@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Home from './components/Home.js';
+import Home from './components/home.js';
 
 //import './components/ExpenseItem'
 //import ExpenseItem from './components/ExpenseItem';
