@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+starta
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,9 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+#### GIT Details
 
-#### GIT Details ####
 email-: singh.abhishek.cse@gmail.com
 user- abhishekcse08
 pwd -: Baba@101
-token-:  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
+token-: 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
